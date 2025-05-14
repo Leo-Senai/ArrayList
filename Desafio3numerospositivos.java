@@ -20,7 +20,7 @@ public class Desafio3 {
 		}else {
 			System.out.println(numeros.get(i) + "não é positivo");
 		}
-		  }
+            }
 	}
 
 }
